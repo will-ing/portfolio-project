@@ -104,13 +104,6 @@
 	}
 
 	@media (max-width: 1000px) {
-		img {
-			width: 99%;
-			height: 40rem;
-			margin-right: 0em;
-			margin-left: 0rem;
-		}
-
 		.contact {
 			display: flex;
 			flex-direction: row;
