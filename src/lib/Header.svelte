@@ -17,6 +17,7 @@
 		display: flex;
 		margin: auto;
 		flex-flow: row;
+		background-color: rgb(29, 29, 29);
 		justify-content: space-between;
 		border-bottom: 2px solid rgba(37, 37, 37, 0.589);
 		box-shadow: 0px 3px rgb(37, 37, 37);
@@ -25,7 +26,7 @@
 	header img {
 		height: 5rem;
 		width: 5rem;
-		background-color: antiquewhite;
+		background-color: rgb(139, 139, 139);
 	}
 
 	nav {

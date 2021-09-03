@@ -20,6 +20,6 @@
 		background: url(/static/assets/symbols/Mandalorian_Skull_2.svg) no-repeat top center;
 		height: 80vh;
 		background-size: 600px 700px;
-		margin-top: 5rem;
+		margin-top: 2rem;
 	}
 </style>
